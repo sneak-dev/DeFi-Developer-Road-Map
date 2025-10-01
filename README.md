@@ -1,6 +1,6 @@
 # DeFi Developer Road Map
 
-**Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
+**Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome..**
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add..**
 
